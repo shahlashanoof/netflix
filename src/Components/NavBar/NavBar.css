@@ -1,0 +1,35 @@
+.navbar{
+    position: fixed;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+    padding: 20px;
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+.searchkey{
+    
+    color: #fff;
+    width: 100px;
+
+    
+}
+.fa-search{
+    color: #fff;
+    position: fixed;
+    right: 10px;
+    size: 100px;
+   width: 80px;
+   padding-top: 15px;
+
+}
